@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chunk_Editor", "OpenGL_Basic1\Chunk_Editor.csproj", "{B20B336E-C531-48FB-92CD-B09D3208B6CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nbtj", "NBTJ\nbtj.csproj", "{0B9F6201-2F91-4231-9928-79550286E658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20B336E-C531-48FB-92CD-B09D3208B6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20B336E-C531-48FB-92CD-B09D3208B6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20B336E-C531-48FB-92CD-B09D3208B6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20B336E-C531-48FB-92CD-B09D3208B6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B9F6201-2F91-4231-9928-79550286E658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9F6201-2F91-4231-9928-79550286E658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9F6201-2F91-4231-9928-79550286E658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9F6201-2F91-4231-9928-79550286E658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D7D5E74-21C3-44A5-BF97-C4FBF99131D2}
+	EndGlobalSection
+EndGlobal
